@@ -1,0 +1,15 @@
+.peopleCard{
+    width: 18rem;
+    margin: 10px;
+}
+
+.scroll {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.peopleRow{
+    display: flex;
+}
